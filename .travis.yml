@@ -3,4 +3,4 @@ node_js:
   - "7"
 
 script:
-  - node lib/backpressure.js
+  - node lib/flowing.js
